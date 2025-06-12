@@ -142,7 +142,7 @@ import 'path/to/dist/themes/lara-light-green-hunonic/theme.css';
 * [PrimeReact Theming Docs](https://primereact.org/theming/)
 * [SASS Language Guide](https://sass-lang.com/documentation/)
 * [PrimeReact GitHub](https://github.com/primefaces/primereact)
-* [Origin Repo](https://github.com/primefaces/primereact-sass-theme)
+* [Origin Repo GitHub](https://github.com/primefaces/primereact-sass-theme)
 
 ---
 
