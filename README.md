@@ -89,7 +89,7 @@ $highlightBg: #f0fdfa !default;
 $highlightTextColor: $primaryDarkerColor !default;
 $highlightFocusBg: rgba($primaryColor, 0.2) !default;
 
-// Import PrimeReact SASS cấu trúc
+// Import PrimeReact SASS with your folder structure
 @import "./_variables";
 @import "./_fonts";
 @import "../../theme-base/_components";
