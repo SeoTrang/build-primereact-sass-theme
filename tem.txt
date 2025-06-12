@@ -1,0 +1,3 @@
+sass my-themes/lara-light-green-hunonic/theme.scss dist/themes/lara-light-green-hunonic/theme.css
+
+origin repo: https://github.com/primefaces/primereact-sass-theme
