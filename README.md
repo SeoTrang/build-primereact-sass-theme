@@ -80,9 +80,9 @@ Make sure to copy:
 // theme.scss
 
 $primaryColor: #00b33d !default;
-$primaryLightColor: #b2f2d3 !default; // Bạn có thể thay nếu muốn sáng hơn
-$primaryDarkColor: #61bc3f !default;  // màu phụ hoặc màu hover
-$primaryDarkerColor: #049d36 !default; // đậm hơn nữa nếu cần
+$primaryLightColor: #b2f2d3 !default; 
+$primaryDarkColor: #61bc3f !default;  
+$primaryDarkerColor: #049d36 !default; 
 $primaryTextColor: #ffffff !default;
 
 $highlightBg: #f0fdfa !default;
