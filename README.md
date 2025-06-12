@@ -1,11 +1,8 @@
-Here’s the updated version of your guide with all the adjustments you asked for:
 
----
 
 # 🧩 Building a Custom PrimeReact Theme with SCSS
 
-This guide explains how to create and build a custom theme for [PrimeReact](https://primereact.org) using the official [SASS theme infrastructure](https://github.com/primefaces/primereact-sass-theme).
-
+This guide walks you through creating and building a custom theme for [PrimeReact Sass Theme](https://github.com/primefaces/primereact-sass-theme), the official SCSS-based theming infrastructure provided by the PrimeReact team.
 ---
 
 ## 📦 Prerequisites
